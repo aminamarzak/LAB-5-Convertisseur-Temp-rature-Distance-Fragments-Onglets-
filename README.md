@@ -6,6 +6,7 @@ un autre pour convertir les distances (Km ↔ Miles)
 L’application doit aussi :
 afficher un menu “Quitter”
 intercepter la touche Retour pour demander confirmation avant de fermer.
-<img width="483" height="1024" alt="image" src="https://github.com/user-attachments/assets/01b2dcda-86af-4c7b-8829-f6f260913f50" />
-<img width="483" height="1024" alt="image" src="https://github.com/user-attachments/assets/8aab1a38-1e5f-4413-b21a-04a12facef3d" />
+<img width="335" height="667" alt="image" src="https://github.com/user-attachments/assets/2eaec535-c2df-4c36-985a-f75e62a6bab2" />
+<img width="340" height="617" alt="image" src="https://github.com/user-attachments/assets/8ef55891-a3a4-4b85-b255-598bd4833c70" />
+
 
